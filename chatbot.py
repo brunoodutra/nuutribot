@@ -6,7 +6,6 @@ from keras.models import Model, load_model
 import pickle
 
 import random
-
 from datetime import datetime
 import pytz
 
